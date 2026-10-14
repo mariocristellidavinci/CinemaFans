@@ -1,2 +1,2 @@
-# Trentinomontagna
-Esplora le alpi trentine in digitale
+# CinemaFans
+Traccia e recensisci film in un catalogo
