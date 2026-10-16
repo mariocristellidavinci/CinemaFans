@@ -1,5 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #14264e;
+  color: #e4e4e4;
+}
+
 h1 {
-  color: #ffc845;
+  color: #ce991d;
   text-align: center;
   text-transform: uppercase;
 }
